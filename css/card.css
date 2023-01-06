@@ -1,0 +1,39 @@
+div {
+    border: solid 4px black;
+    height: 250px;
+    width: 600px;
+    Margin: 30px 0 0 20px;
+  }
+  
+  img {
+    height: 125px;
+    width: 200px;
+    float: right;
+    margin: 100px 15px 1px 0;
+    
+  }
+  
+  h1 {
+    padding: 0;
+    font-size: 3.3em;
+    font-weight: 800;
+    margin: 0 0 0 15px;
+  }
+  
+  h3.name {
+    font-size: 1.5em;
+    margin: 1px 0 0 23px;
+  }
+  
+  .email {
+    font-size: 1.5em;
+    margin: 90px 0 0 15px;
+    padding-bottom: 4px;
+  }
+  
+  .area {
+    font-size: 1.5em;
+    margin: 0 0 0 15px;
+    
+  }
+  
