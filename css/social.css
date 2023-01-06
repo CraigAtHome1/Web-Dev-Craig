@@ -1,0 +1,56 @@
+.social-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+   .social-bar a {
+    display: inline;
+    text-align: center;
+    padding: 15px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+  }
+   
+  .social-bar a:hover {
+    background-color: rgb(6, 1, 1);
+  }
+
+
+  
+  .instagram {
+    background: #8a3ab9;
+    margin: 5px;
+    
+  }
+
+  .twitch {
+    background: #600296;
+    margin: 5px;
+  }
+  
+  
+  .twitter {
+    background: #5eb3f4;
+    
+    margin: 5px;
+  }
+  
+  .google {
+    background: #f35540;
+    
+    margin: 5px;
+  }
+  
+  .linkedin {
+    background: #0883bc;
+    
+    margin: 5px;
+  }
+  
+  .youtube {
+    background: red;
+    margin: 5px;
+  }
